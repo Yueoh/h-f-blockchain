@@ -1,0 +1,1 @@
+tar zxf ~/Downloads/hyperledger-fabric-linux-amd64-1.4.0.tar.gz -C ~/h-f-blockchain/fabric-bin
